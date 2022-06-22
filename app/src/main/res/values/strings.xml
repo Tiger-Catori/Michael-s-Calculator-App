@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator Application</string>
+    <string name="ac">AC</string>
+    <string name="back">⌫</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors. -->
+    <color name="Purple">#FFBB86FC</color>
+    <color name="Teal">#FF03DAC5</color>
+    <color name='Grey'>#777</color>
+    <color name='LightBlue'>#ffd7e8de</color>
+    <color name='RedOrange'>#ffffab91</color>
+    <color name='RedPink'>#fff48fb1</color>
+    <color name='BabyBlue'>#ff81deea</color>
+    <color name='Violet'>#ffcf94da</color>
+    <color name='LightGreen'>#ffe7ed9b</color>
+    <color name='Black'>#222</color>
+    <color name='White'>#fff</color>
+</resources>
